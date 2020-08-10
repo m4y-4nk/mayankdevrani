@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Akhil Chandail</h1>
-<h3 align="center">Freelance Web Developer, building creative Design + Development of web applications.</h3>
+<h1 align="center">Hi 👋, I'm Mayank Devrani</h1>
+<h3 align="center">Web Developer, building creative Design, Development & Deployment of Web Applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil091" alt="akhil091" /> </p>
 
