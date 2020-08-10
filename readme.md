@@ -24,9 +24,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mayankdevrani&show_icons=true" alt="mayankdevrani" /> </p>
 
 <!-- <p align="center">
-<a href="https://codepen.io/akhil09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="akhil09" height="20" width="20" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/akhilrajput091" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akhilrajput091" height="20" width="20" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/akhil-chandail-594908122" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akhil-chandail-594908122" height="20" width="20" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/akhilrajput091" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akhilrajput091" height="20" width="20" /></a>&nbsp;&nbsp;
-<a href="https://medium.com/@akhilchandail9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@akhilchandail9" height="20" width="20" /></a>
+<a href="https://codepen.io/..." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="..." height="20" width="20" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/..." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="..." height="20" width="20" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/..." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="..." height="20" width="20" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/..." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="..." height="20" width="20" /></a>&nbsp;&nbsp;
+<a href="https://medium.com/@..." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@..." height="20" width="20" /></a>
 </p> -->
