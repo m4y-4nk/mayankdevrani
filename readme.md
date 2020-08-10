@@ -27,6 +27,5 @@
 <a href="https://codepen.io/..." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="..." height="20" width="20" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/..." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="..." height="20" width="20" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/..." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="..." height="20" width="20" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/..." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="..." height="20" width="20" /></a>&nbsp;&nbsp;
-<a href="https://medium.com/@..." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@..." height="20" width="20" /></a>
+<a href="https://stackoverflow.com/in/..." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="..." height="20" width="20" /></a>&nbsp;&nbsp;
 </p>
