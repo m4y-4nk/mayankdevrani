@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mayank Devrani</h1>
-<h3 align="center">Web Developer, Building Creative Design</h3><br>
-<h3 align="center">Development & Deployment of Web Applications.</h3>
+- <h3 align="center">Web Developer, Building Creative Design</h3>
+- <h3 align="center">Development & Deployment of Web Applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankdevrani" alt="mayankdevrani" /> </p>
 
