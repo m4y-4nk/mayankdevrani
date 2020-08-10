@@ -6,7 +6,7 @@
 
 - 🎯 I’m currently Focusing.
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **Frameworks**.
 
 <!-- - 🤔 I’m looking for help with **...** -->
 
@@ -14,9 +14,9 @@
 
 <!-- - 📝 Sometimes I write articles on [Medium](https://medium.com/...) -->
 
-- 💬 Ask me about **Frontend Development & Frameworks**
+- 💬 Ask me about **Frontend Development & Frameworks**.
 
-- 📫 Reach to me @ **mayank.devrani13@gmail.com**
+- 📫 Reach to me @ **mayank.devrani13@gmail.com**.
 
 <!-- - ⚡ Fun fact **...** -->
 <br>
