@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankdevrani" alt="mayankdevrani" /> </p>
 
-- 🎯 I’m currently Focusing.
+- 🎯 Currently Focusing.
 
-- 🌱 I’m currently learning **Frameworks**.
+- 🌱 Currently learning **Frameworks**.
 
 <!-- - 🤔 I’m looking for help with **...** -->
 
