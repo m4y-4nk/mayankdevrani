@@ -6,7 +6,7 @@
 
 - 🎯 Currently Focusing.
 
-- 🌱 Learning **Frameworks**.
+- 📖 Learning **Frameworks**.
 
 - 👨‍💻 Dealing with Competitive Coding.
 
