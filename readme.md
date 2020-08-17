@@ -28,7 +28,7 @@
 <p align="center">
 <a href="https://codepen.io/..." target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="..." height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/..." target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="..." height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/..." target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="..." height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/mayankdevrani" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="..." height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/12206818/mayank-devrani" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="StackOverFlow" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://www.hackerearth.com/@mynk.13" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="HackerEarth" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
