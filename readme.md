@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mayank Devrani</h1>
+<h1 align="center">Hi <img src="https://github.com/mayankdevrani/readme-images/Hi.gif" width="29px">, I'm Mayank Devrani</h1>
 <h3 align="center">Web Developer, Building Creative Design, Development & Deployment of Web Applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankdevrani" alt="mayankdevrani" /> </p>
