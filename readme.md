@@ -4,7 +4,7 @@
 
 <h3 align="center">Web Developer, Building Creative Design, Development & Deployment of Web Applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankdevrani" alt="mayankdevrani" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankdevrani" alt="mayankdevrani" /> </p> -->
 
 - 📖 Learning **MERN Stack Development**.
 
