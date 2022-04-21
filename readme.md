@@ -31,7 +31,6 @@
 </p>
 <!--<img src="https://github-readme-stats.vercel.app/api?username=mayankdevrani&show_icons=true" alt="mayankdevrani" /> -->
 
-</p>
 
 <!-- <p align="center">
 <a href="https://www.hackerearth.com/@mayankdevrani" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="HackerEarth" height="25" width="25" /></a>&nbsp;&nbsp;
