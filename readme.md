@@ -17,7 +17,7 @@
 <br>
 <p align="center">
 ## Languages and Tools
-<p align="center">
+
 ![](https://img.shields.io/badge/Salesforce-informational?style=flat&logo=salesforce&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=505050) 
 <!-- ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=505050)
