@@ -15,7 +15,7 @@
 - 📫 Reach to me @ **mayank.devrani13@gmail.com**.
 
 <br>
-<p align="center">
+
 ## Languages and Tools
 
 ![](https://img.shields.io/badge/Salesforce-informational?style=flat&logo=salesforce&logoColor=white&color=505050)
