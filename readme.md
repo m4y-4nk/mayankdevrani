@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://github.com/mayankdevrani/readme-images/blob/master/Hi.gif" width="29px">, I'm Mayank Devrani</h1>
+<h1 align="center">Hi <img src="https://github.com/mayankdevrani/readme-images/blob/master/Hi.gif" width="30px">, I'm Mayank Devrani</h1>
 <img align="right" src="https://github.com/mayankdevrani/readme-images/blob/master/developer.gif" alt="Coder GIF" width="500" height="400">
 
 <h3 align="center">Techie</h3>
