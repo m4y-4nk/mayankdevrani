@@ -2,15 +2,15 @@
 <h1 align="center">Hi <img src="https://github.com/mayankdevrani/readme-images/blob/master/Hi.gif" width="29px">, I'm Mayank Devrani</h1>
 <img align="right" src="https://github.com/mayankdevrani/readme-images/blob/master/developer.gif" alt="Coder GIF" width="500" height="400">
 
-<h3 align="center">Web Developer, Building Creative Design, Development & Deployment of Web Applications.</h3>
+<h3 align="center">Techie</h3>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankdevrani" alt="mayankdevrani" /> </p> -->
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankdevrani" alt="mayankdevrani" /> </p> 
 
 - 📖 Learning **MERN Stack Development**.
 
 - 👨‍💻 Dealing with Competitive Coding.
 
-- 💻 All of my projects are available at [Here!](https://github.com/mayankdevrani)
+- 💻 All of my projects are available at [Here!](https://github.com/mayankdevrani)-->
 
 - 📫 Reach to me @ **mayank.devrani13@gmail.com**.
 
@@ -18,6 +18,7 @@
 
 ## Languages and tools
 
+![](https://img.shields.io/badge/salesforce-informational?style=flat&logo=html5&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=505050)
