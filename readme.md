@@ -10,7 +10,7 @@
 
 - 👨‍💻 Dealing with Competitive Coding.
 
-- 💻 All of my projects are available at [Here!](https://github.com/mayankdevrani)-->
+- 💻 All of my projects are available at [Here!](https://github.com/mayankdevrani) -->
 
 - 📫 Reach to me @ **mayank.devrani13@gmail.com**.
 
