@@ -15,7 +15,7 @@
 - 📫 Reach to me @ **mayank.devrani13@gmail.com**.
 
 <br>
-
+<p align="center">
 ## Languages and Tools
 
 ![](https://img.shields.io/badge/Salesforce-informational?style=flat&logo=salesforce&logoColor=white&color=505050)
@@ -28,12 +28,12 @@
 
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/git-informational?style=flat&logo=git&logoColor=white&color=505050)
-
+</p>
 <!--<img src="https://github-readme-stats.vercel.app/api?username=mayankdevrani&show_icons=true" alt="mayankdevrani" /> -->
 
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://www.hackerearth.com/@mayankdevrani" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="HackerEarth" height="25" width="25" /></a>&nbsp;&nbsp;
-</p>
+</p> -->
 
